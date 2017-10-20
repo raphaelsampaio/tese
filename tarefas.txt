@@ -1,0 +1,4 @@
+* Greenness por fundo e ano no painel
+* Headers no painel (data, fundo, cota, greenness)
+* Gravar painel em formato csv no disco
+* Revisão e apresentação

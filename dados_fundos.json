@@ -1,0 +1,456 @@
+{
+  "2009": {
+    "08924783000101": {
+      "greenness": 285797.4,
+      "properties": 1
+    }
+  },
+  "2010": {
+    "08924783000102": {
+      "greenness": 285797.4,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    }
+  },
+  "2011": {
+    "03683056000186": {
+      "greenness": 10030.87,
+      "properties": 1
+    },
+    "08924783000103": {
+      "greenness": 285797.4,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    },
+    "12093377000111": {
+      "greenness": 266250.43,
+      "properties": 1
+    }
+  },
+  "2012": {
+    "03683056000186": {
+      "greenness": 10030.87,
+      "properties": 1
+    },
+    "08924783000104": {
+      "greenness": 285797.4,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    },
+    "12093377000112": {
+      "greenness": 266250.43,
+      "properties": 1
+    },
+    "12401858000147": {
+      "greenness": 123315.72,
+      "properties": 1
+    },
+    "13022993000144": {
+      "greenness": 70927.21,
+      "properties": 1
+    },
+    "15006286000190": {
+      "greenness": 162690.56,
+      "properties": 2
+    }
+  },
+  "2013": {
+    "03683056000186": {
+      "greenness": 25121.56,
+      "properties": 2
+    },
+    "08924783000105": {
+      "greenness": 347872.41,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    },
+    "12093377000113": {
+      "greenness": 332813.03,
+      "properties": 1
+    },
+    "12323987000164": {
+      "greenness": 196900.9,
+      "properties": 2
+    },
+    "12401858000147": {
+      "greenness": 123315.72,
+      "properties": 1
+    },
+    "12948291000123": {
+      "greenness": 29433.51,
+      "properties": 1
+    },
+    "13022993000144": {
+      "greenness": 70927.21,
+      "properties": 1
+    },
+    "14788492000136": {
+      "greenness": 83672.73,
+      "properties": 1
+    },
+    "15006286000190": {
+      "greenness": 162690.56,
+      "properties": 2
+    },
+    "17489157000125": {
+      "greenness": 5916.8,
+      "properties": 1
+    }
+  },
+  "2014": {
+    "03683056000186": {
+      "greenness": 25121.56,
+      "properties": 2
+    },
+    "08924783000106": {
+      "greenness": 347872.41,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    },
+    "12093377000114": {
+      "greenness": 332813.03,
+      "properties": 1
+    },
+    "12323987000164": {
+      "greenness": 196900.9,
+      "properties": 2
+    },
+    "12401858000147": {
+      "greenness": 123315.72,
+      "properties": 1
+    },
+    "12804013000100": {
+      "greenness": 23226.98,
+      "properties": 1
+    },
+    "12948291000123": {
+      "greenness": 29433.51,
+      "properties": 1
+    },
+    "13022993000144": {
+      "greenness": 70927.21,
+      "properties": 1
+    },
+    "14788492000136": {
+      "greenness": 83672.73,
+      "properties": 1
+    },
+    "15006286000190": {
+      "greenness": 162690.56,
+      "properties": 2
+    },
+    "15799397000109": {
+      "greenness": 53885.92,
+      "properties": 1
+    },
+    "17489157000125": {
+      "greenness": 5916.8,
+      "properties": 1
+    },
+    "20680775000162": {
+      "greenness": 19719.8,
+      "properties": 1
+    }
+  },
+  "2015": {
+    "03683056000186": {
+      "greenness": 25121.56,
+      "properties": 2
+    },
+    "08924783000107": {
+      "greenness": 347872.41,
+      "properties": 1
+    },
+    "09072017000129": {
+      "greenness": 52936.2,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    },
+    "12093377000115": {
+      "greenness": 332813.03,
+      "properties": 1
+    },
+    "12401858000147": {
+      "greenness": 123315.72,
+      "properties": 1
+    },
+    "12516185000170": {
+      "greenness": 18685.41,
+      "properties": 1
+    },
+    "12804013000100": {
+      "greenness": 23226.98,
+      "properties": 1
+    },
+    "12948291000123": {
+      "greenness": 29433.51,
+      "properties": 1
+    },
+    "13022993000144": {
+      "greenness": 70927.21,
+      "properties": 1
+    },
+    "14788492000137": {
+      "greenness": 83672.73,
+      "properties": 1
+    },
+    "15006286000190": {
+      "greenness": 162690.56,
+      "properties": 2
+    },
+    "15296696000112": {
+      "greenness": 61888.23,
+      "properties": 1
+    },
+    "15799397000109": {
+      "greenness": 53885.92,
+      "properties": 1
+    },
+    "17143998000186": {
+      "greenness": 286288.36,
+      "properties": 1
+    },
+    "17282011000104": {
+      "greenness": 5504.22,
+      "properties": 1
+    },
+    "17489157000125": {
+      "greenness": 5916.8,
+      "properties": 1
+    },
+    "19267845000176": {
+      "greenness": 3350.18,
+      "properties": 1
+    },
+    "19442626000186": {
+      "greenness": 265085.67,
+      "properties": 1
+    },
+    "20680775000162": {
+      "greenness": 19719.8,
+      "properties": 1
+    },
+    "23532837000187": {
+      "greenness": 128732.9,
+      "properties": 1
+    },
+    "23533796000143": {
+      "greenness": 68168.0,
+      "properties": 1
+    },
+    "23570871000146": {
+      "greenness": 244324.52,
+      "properties": 1
+    }
+  },
+  "2016": {
+    "03683056000186": {
+      "greenness": 25121.56,
+      "properties": 2
+    },
+    "08924783000108": {
+      "greenness": 347872.41,
+      "properties": 1
+    },
+    "09072017000129": {
+      "greenness": 52936.2,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    },
+    "12093377000116": {
+      "greenness": 332813.03,
+      "properties": 1
+    },
+    "12401858000147": {
+      "greenness": 119068.88,
+      "properties": 1
+    },
+    "12516185000170": {
+      "greenness": 18685.41,
+      "properties": 1
+    },
+    "12804013000100": {
+      "greenness": 23226.98,
+      "properties": 1
+    },
+    "12948291000123": {
+      "greenness": 29433.51,
+      "properties": 1
+    },
+    "13022993000144": {
+      "greenness": 70927.21,
+      "properties": 1
+    },
+    "13966653000171": {
+      "greenness": 49754.18,
+      "properties": 1
+    },
+    "14788492000138": {
+      "greenness": 83672.73,
+      "properties": 1
+    },
+    "15006286000190": {
+      "greenness": 162690.56,
+      "properties": 2
+    },
+    "15296696000112": {
+      "greenness": 61888.23,
+      "properties": 1
+    },
+    "15799397000109": {
+      "greenness": 53885.92,
+      "properties": 1
+    },
+    "17143998000186": {
+      "greenness": 286288.36,
+      "properties": 1
+    },
+    "17282011000104": {
+      "greenness": 5504.22,
+      "properties": 1
+    },
+    "19267845000176": {
+      "greenness": 6700.36,
+      "properties": 1
+    },
+    "19442626000186": {
+      "greenness": 265085.67,
+      "properties": 1
+    },
+    "20680775000162": {
+      "greenness": 130722.69,
+      "properties": 3
+    },
+    "23532837000187": {
+      "greenness": 128732.9,
+      "properties": 1
+    },
+    "23533796000143": {
+      "greenness": 68168.0,
+      "properties": 1
+    },
+    "23570871000146": {
+      "greenness": 244324.52,
+      "properties": 1
+    }
+  },
+  "2017": {
+    "03683056000186": {
+      "greenness": 25121.56,
+      "properties": 2
+    },
+    "08924783000109": {
+      "greenness": 347872.41,
+      "properties": 1
+    },
+    "09072017000129": {
+      "greenness": 52936.2,
+      "properties": 1
+    },
+    "11281322000172": {
+      "greenness": 46196.35,
+      "properties": 1
+    },
+    "12093377000117": {
+      "greenness": 332813.03,
+      "properties": 1
+    },
+    "12401858000147": {
+      "greenness": 119068.88,
+      "properties": 1
+    },
+    "12516185000170": {
+      "greenness": 18685.41,
+      "properties": 1
+    },
+    "12804013000100": {
+      "greenness": 23226.98,
+      "properties": 1
+    },
+    "12948291000123": {
+      "greenness": 29433.51,
+      "properties": 1
+    },
+    "13022993000144": {
+      "greenness": 70927.21,
+      "properties": 1
+    },
+    "13966653000171": {
+      "greenness": 49754.18,
+      "properties": 1
+    },
+    "14788492000139": {
+      "greenness": 83672.73,
+      "properties": 1
+    },
+    "15006286000190": {
+      "greenness": 162690.56,
+      "properties": 2
+    },
+    "15296696000112": {
+      "greenness": 61888.23,
+      "properties": 1
+    },
+    "15799397000109": {
+      "greenness": 53885.92,
+      "properties": 1
+    },
+    "17143998000186": {
+      "greenness": 286288.36,
+      "properties": 1
+    },
+    "17282011000104": {
+      "greenness": 5504.22,
+      "properties": 1
+    },
+    "19267845000176": {
+      "greenness": 13237.9,
+      "properties": 1
+    },
+    "19419994000103": {
+      "greenness": 1270690.91,
+      "properties": 1
+    },
+    "19442626000186": {
+      "greenness": 265085.67,
+      "properties": 1
+    },
+    "20680775000162": {
+      "greenness": 130722.69,
+      "properties": 3
+    },
+    "23532837000187": {
+      "greenness": 128732.9,
+      "properties": 1
+    },
+    "23533796000143": {
+      "greenness": 68168.0,
+      "properties": 1
+    },
+    "23570871000146": {
+      "greenness": 262727.5,
+      "properties": 1
+    }
+  }
+}
